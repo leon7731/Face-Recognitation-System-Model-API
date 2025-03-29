@@ -9,7 +9,7 @@ The Face Recognitation API consists of two main components: a database hosted on
 
 ### Accessing the Subway API
 - The Subway API is hosted on an Amazon EC2 instance.
-- Access it via the public IP endpoint: [http://50.19.149.26](http://50.19.149.26).
+- Access it via the public IP endpoint: [http://13.212.11.199:8000](http://13.212.11.199:8000). 
 
 ## B) Local Setup
 
